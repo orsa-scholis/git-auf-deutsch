@@ -1,11 +1,9 @@
-# Git auf Deutsch
+# Git uf Schiizerdütsch
 
-Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
-(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
-_"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
-der oft seltsam klingenden Konstruktionen.
+Di täglich komunikation i schwiizer entwicklerteams, wo `git` (übersetz: `Dubbel` oder `Spasst`) verwendet wird, isch immer perfekts denglish im isatz.
+_"Chasch bitte pullä"_ oder _"Häsch scho pushed"_ sind nur zwei vo vielne seltsam tönende sätz.
 
-Git auf Deutsch schafft Abhilfe!
+Git uf Schiizerdütsch hilft!
 
 ## Vorschläge
 
