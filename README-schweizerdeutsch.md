@@ -1,13 +1,13 @@
-# Git uf Schiizerdütsch
+# Git uf Schwiizerdütsch
 
 Di täglich komunikation i schwiizer entwicklerteams, wo `git` (übersetz: `Dubbel` oder `Spasst`) verwendet wird, isch immer perfekts denglish im isatz.
 _"Chasch bitte pullä"_ oder _"Häsch scho pushed"_ sind nur zwei vo vielne seltsam tönende sätz.
 
 Git uf Schiizerdütsch hilft!
 
-## Vorschläge
+## Vorschläg
 
-Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
+Es sind folgendi zwei Tabelle mit Vorschläg für de täglich Gebruch.
 
 | Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
@@ -29,14 +29,14 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
 
-Hier noch einige (zum Teil nicht ganz ernste)
+Da na es paar meh
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag                  |
 |---------------|--------------------|----------------------------|
-| git           | git                | Depp                       |
-| github        | github             | Deppendrehkreuz            |
-| gitlab        | gitlab             | Deppenlabor                |
-| gitea         | gitea              | Deppentee                  |
+| git           | git                | Dubbel                       |
+| github        | github             | Dubbelzentrum            |
+| gitlab        | gitlab             | Dubbellabor                |
+| gitea         | gitea              | Dubbeltee                  |
 | blame         | blame              | Deppenbeschuldigung        |
 | bitbucket     | bitbucket          | Gebisseimer                |
 | repository    | repo               | Lagerstätte                |
@@ -51,7 +51,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | origin        | origin             | Ursprung                   |
 | master        | master             | Meister                    |
 
-## Beispiele
+## Biispil
 
     - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
 
@@ -69,9 +69,9 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Gabeln Sie auf Deppendrehkreuz!
 
-## Depp auf Deutsch anwenden
+## Dubbel uf Schwiizerdütsch ahwende
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch in Deine Konsole bringt. Da Depp keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
+Wer de nächsti Schritt mache wott, da e chlini Ahleitig, zum Dubbel uf Schwiizerdütsch i dini Konsole z bringe. Da de Dubbel kei Umlut zuehlah, münd mer i de Befehl leider druf verzichte. Nimm die folgendi Änderige i dim `~/.gitconfig` vor:
 
     git config --global alias.eroeffne init
     git config --global alias.machnach clone
@@ -94,5 +94,5 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch
 
 Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
 
-    alias depp=git
+    alias dubbel=git
 https://github.com/danielauener/git-auf-deutsch.git
